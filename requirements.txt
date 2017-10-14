@@ -1,0 +1,2 @@
+pkg-resources==0.0.0
+xvfbwrapper==0.2.9
